@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FairyStone_My_Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
